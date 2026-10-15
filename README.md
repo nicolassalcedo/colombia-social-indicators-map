@@ -48,9 +48,6 @@ R · Shiny · shinydashboard · leaflet · sf · dplyr · ggplot2 · DT
 2. Open `app.R` in RStudio.
 3. Click **Run App**. The required packages are loaded at the top of the script; install any that are missing with `install.packages()`.
 
-## 📚 Data sources
-
-<!-- Agrega aquí las fuentes de los datos (por ejemplo, la entidad y el año) -->
 
 ## 🧰 Skills demonstrated
 
