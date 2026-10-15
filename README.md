@@ -2,7 +2,7 @@
 
 **Interactive dashboard built with R Shiny | Academic project, Universidad Tecnológica de Pereira**
 
-🔗 **Live app:** [Open the dashboard](PEGA-AQUI-EL-ENLACE-DE-SHINYAPPS)
+🔗 **Live app:** [Open the dashboard]( https://lo56ov-nicolas0-salcedo0norato.shinyapps.io/colombia-social-indicators-map/)
 
 An interactive dashboard that maps homicide and birth indicators for every municipality and department in Colombia, so users can compare territories, filter by department and identify the places with the highest values.
 
